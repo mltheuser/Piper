@@ -1,5 +1,8 @@
 # Piper
-The objectively best programming language
+
+<img src="https://github.com/mltheuser/Piper/assets/25958978/8e178478-3dd8-4652-b3c1-407bbe427a71" alt="mascot" width="200"/>
+
+The objectively best programming language.
 
 ### Variables
 
